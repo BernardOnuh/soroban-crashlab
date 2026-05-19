@@ -8,8 +8,6 @@ apps/web/node_modules/
 apps/web/.next/
 
 # Env and logs
-.env
-.env.*
 *.log
 
 .agents/
@@ -19,3 +17,4 @@ issue.md
 AGENTS.md
 GEMINI.md
 skills-lock.json
+config.bat
